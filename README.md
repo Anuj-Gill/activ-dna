@@ -89,6 +89,8 @@ FitStudio Financial Dashboard is a Next.js web application that provides fitness
    ```bash
    npx prisma migrate dev
    ```
+6. You can use the ./utils/seed.js file to seed the db with some sample data
+   
 5. Start the development server:
    ```bash
    npm run dev
